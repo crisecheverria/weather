@@ -2,7 +2,7 @@
 
 A weather CLI built with Go. Followed [tutorial](https://www.youtube.com/watch?v=zPYjfgxYO7k) on Youtube and changed a couple of things.
 
-![Weather App CLI](https://github.com/criech/weather-app-cli/blob/master/terminal.png)
+![Weather App CLI](https://github.com/crisecheverria/weather-app-golang/blob/main/terminal.png)
 
 # Use
 
