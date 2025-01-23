@@ -17,20 +17,20 @@ go build
 You can pass a location as argument (default is `Gothenburg`):
 
 ```bash
-./weather "New York"
+./weather London
 ```
 
 You will need to create your own WEATHERAPI_KEY key for the weather API. You can do that [here](https://openweathermap.org/api).
 
 ```bash
 export WEATHERAPI_KEY=YOUR_KEY
-./weather "New York"
+./weather London
 ```
 
 # Run
 
 ```bash
-./weather "New York"
+./weather London
 ```
 
 # Install
@@ -39,14 +39,14 @@ In Linux you can use `cp` to copy the binary to `/usr/local/bin` and run it from
 
 ```bash
 cp weather /usr/local/bin
-weather "New York"
+weather London
 ```
 
 In Mac you can use `mv` to move the binary to `/usr/local/bin` and run it from anywhere:
 
 ```bash
 mv weather ~/usr/local/bin
-weather "New York"
+weather London
 ```
 
 # Run tests
