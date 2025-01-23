@@ -1,6 +1,8 @@
 # Weather App CLI
 
-A weather CLI built with Go. Followed [tutorial](https://www.youtube.com/watch?v=zPYjfgxYO7k) on Youtube and changed a couple of thingg:
+A weather CLI built with Go. Followed [tutorial](https://www.youtube.com/watch?v=zPYjfgxYO7k) on Youtube and changed a couple of things.
+
+![Weather App CLI](https://github.com/criech/weather-app-cli/blob/master/terminal.png)
 
 # Use
 
