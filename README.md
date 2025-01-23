@@ -24,7 +24,6 @@ You will need to create your own WEATHERAPI_KEY key for the weather API. You can
 
 ```bash
 export WEATHERAPI_KEY=YOUR_KEY
-./weather London
 ```
 
 # Run
