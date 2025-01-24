@@ -53,3 +53,8 @@ weather London
 ```bash
 go test
 ```
+
+# Todo
+
+- Review test coverage
+- Able to pass location argument like `weather "New York"` and not just `weather Location`
