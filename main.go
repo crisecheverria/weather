@@ -4,13 +4,12 @@ import (
 	"crisecheverria/weather/types"
 	"encoding/json"
 	"fmt"
+	"github.com/fatih/color"
 	"io"
 	"net/http"
 	"os"
 	"strings"
 	"time"
-
-	"github.com/fatih/color"
 )
 
 func main() {

@@ -9,8 +9,8 @@ A weather CLI built with Go. Followed [tutorial](https://www.youtube.com/watch?v
 Install `go` and `git` if you don't have them.
 
 ```bash
-git clone https://github.com/criech/weather-app-cli.git
-cd weather-app-cli
+# git clone the repository
+cd weather
 go build
 ```
 
